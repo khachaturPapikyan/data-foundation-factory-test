@@ -1,0 +1,11 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "pj-efive-data-dev",
+  "defaultLocation": "EU",
+  "vars": {
+    "executionSetting": "dev",
+    "base_project_id": "pj-efive-data"
+  }
+}
